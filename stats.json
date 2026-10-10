@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-10T04:35:25Z",
+  "updated": "2026-10-10T04:45:53Z",
   "sources": 46,
   "endpoints": 30000,
   "scanned": 3000,
-  "working_now": 2703,
-  "pool": 26156,
+  "working_now": 2689,
+  "pool": 26178,
   "published": 3000
 }
