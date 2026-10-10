@@ -1,0 +1,14 @@
+trojan://KiUXpE53Xd@www.7770031.xyz:39493?type=tcp&security=tls&sni=www.7770031.xyz&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://KiUXpE53Xd@www.7770031.xyz:39493?type=tcp&security=tls&sni=www.7770031.xyz&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://KiUXpE53Xd@www.7770031.xyz:39493?allowInsecure=0&sni=www.7770031.xyz#%5BOpenRay%5D%20%F0%9F%8C%90XX-683
+trojan://KiUXpE53Xd@www.7770031.xyz:39493?type=tcp&security=tls&fp=chrome&sni=www.7770031.xyz#%5BOpenRay%5D%20%F0%9F%8C%90XX-1414
+trojan://KiUXpE53Xd@www.7770031.xyz:39493?security=tls&type=tcp&sni=www.7770031.xyz#%5BOpenRay%5D%20%F0%9F%8C%90XX-2791
+trojan://KiUXpE53Xd@www.7770031.xyz:39493?security=tls&type=tcp&sni=www.7770031.xyz&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://KiUXpE53Xd@www.7770031.xyz:39493?allowInsecure=0&sni=www.7770031.xyz#[1155][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
+trojan://KiUXpE53Xd@www.7770031.xyz:39493?type=tcp&security=tls&fp=chrome&sni=www.7770031.xyz#[1157][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
+trojan://KiUXpE53Xd@www.7770031.xyz:39493?security=tls&type=tcp&sni=www.7770031.xyz#[1156][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
+trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@sg2.vatilon.cc:10003?security=tls&sni=sg2.vatilon.cc&type=tcp&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Santa%20Clara%20%7C%20%5BBL%5D
+trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@sg2.vatilon.cc:10003?security=tls&sni=sg2.vatilon.cc&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Santa%20Clara%20%7C%20%5BBL%5D
+trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@sg2.vatilon.cc:10003?security=tls&sni=sg2.vatilon.cc&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Santa%20Clara%20%7C%20%5BBL%5D
+trojan://trojan@104.18.35.86:8443?security=tls&sni=longwanghen.pages.dev&type=ws&path=%2F&Host=longwanghen.pages.dev&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
+trojan://trojan@104.18.35.86:8443?security=tls&sni=longwanghen.pages.dev&type=ws&path=%2F&Host=longwanghen.pages.dev&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
