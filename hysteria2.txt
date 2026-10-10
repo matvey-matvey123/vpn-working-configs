@@ -1,3 +1,0 @@
-hysteria2://9P5zfc7S0s@srm.kishonline.online:443?security=tls&amp;obfs=salamander&amp;obfs-password=kish-data-center&amp;insecure=0&amp;sni=srm.kishonline.online#@filembad
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&amp;obfs=salamander&amp;obfs-password=t72hzzenktxmrvgu&amp;insecure=0&amp;sni=assets.gateway-stream.com#@igrsdet
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52064?security=tls&amp;obfs=salamander&amp;obfs-password=bs5yf8xwmyqafwy4&amp;insecure=0&amp;sni=assets.gateway-stream.com#@igrsdet
