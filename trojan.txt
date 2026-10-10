@@ -1,8 +1,8 @@
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#EPODONIOS
+trojan://mitivpn@104.16.72.70:443?sni=gamingdll.ir&peer=gamingdll.ir&security=tls#XX
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#EPODONIOS
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#RELAY
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&amp;security=tls&amp;insecure=0&amp;host=space.byu.id.yxls.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=space.byu.id.yxls.eu.cc#[497][US][0][TROJAN][None][SafeNet_Server][2026-06-27][2026-10-10
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&amp;security=tls&amp;insecure=0&amp;host=space.byu.id.yxls.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=space.byu.id.yxls.eu.cc#[496][US][0][TROJAN][None][SafeNet_Server][2026-06-27][2026-10-10
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#EPODONIOS
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#EPODONIOS
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#[2571][CR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
@@ -41,10 +41,10 @@ trojan://humanity@104.18.4.5:443?path=/assignment&security=tls&alpn=http/1.1&fm=
 trojan://humanity@104.18.4.5:443?allowInsecure=1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=1&type=ws&security=tls&path=%2Fassignment&host=www.volumeroot.com&sni=www.volumeroot.com&fp=chrome&alpn=http/1.1#[2977][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
 trojan://Telegram_healer_config@104.21.24.95:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&path=/tr/zJi4ccv7FeEo780U%3Fed%3D2560&security=tls&sni=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#EPODONIOS
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?sni=dimskiee.biz.id&peer=dimskiee.biz.id&security=tls#XX
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#EPODONIOS
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#EPODONIOS
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#EPODONIOS
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#EPODONIOS
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#
@@ -73,13 +73,15 @@ trojan://humanity@172.64.155.209:443/?type=ws&host=www.gossipglove.com&path=%2Fa
 trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@us2.australiacaregroup.site:10013?allowInsecure=1&sni=us2.australiacaregroup.site#%F0%9F%87%BA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20trojan-US-...
 trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@us2.australiacaregroup.site:10013?allowInsecure=1&sni=us2.australiacaregroup.site#EPODONIOS
 trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@us2.australiacaregroup.site:10013?allowInsecure=1&sni=us2.australiacaregroup.site#EPODONIOS
-trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@us2.australiacaregroup.site:10013?sni=us2.australiacaregroup.site&peer=us2.australiacaregroup.site&security=tls#US
 trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@us2.australiacaregroup.site:10013?allowInsecure=1&sni=us2.australiacaregroup.site#EPODONIOS
+trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@us2.australiacaregroup.site:10013?allowInsecure=1&sni=us2.australiacaregroup.site#[2400][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
 trojan://UX82473651@intense-wildcat.rooster465.autos:443?allowInsecure=1&sni=intense-wildcat.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP%20%233
 trojan://UX82473651@intense-wildcat.rooster465.autos:443?allowInsecure=1&sni=intense-wildcat.rooster465.autos#🇸🇬[openproxylist.com]
+trojan://UX82473651@intense-wildcat.rooster465.autos:443?sni=intense-wildcat.rooster465.autos&peer=intense-wildcat.rooster465.autos&security=tls#SG
 trojan://FC60532879@intense-wildcat.rooster465.autos:443?sni=intense-wildcat.rooster465.autos&type=tcp&fp=chrome#0572
 trojan://UX82473651@inspired-hound.rooster465.autos:443?allowInsecure=1&sni=inspired-hound.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP%20%234
 trojan://UX82473651@inspired-hound.rooster465.autos:443?allowInsecure=1&sni=inspired-hound.rooster465.autos#🇸🇬[openproxylist.com]
+trojan://UX82473651@inspired-hound.rooster465.autos:443?sni=inspired-hound.rooster465.autos&peer=inspired-hound.rooster465.autos&security=tls#SG
 trojan://JT80563429@inspired-hound.rooster465.autos:443?security=tls&sni=inspired-hound.rooster465.autos#0403
 trojan://UX82473651@desired-boxer.rooster465.autos:443?sni=desired-boxer.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20trojan-SG-...%20%2312
 trojan://UX82473651@desired-boxer.rooster465.autos:443?security=tls&sni=desired-boxer.rooster465.autos#[1820][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
@@ -125,7 +127,3 @@ trojan://mitivpn@199.232.78.170:443?security=tls&amp;alpn=http/1.1&amp;insecure=
 trojan://mitivpn@199.232.78.170:443?security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@v2ray313
 trojan://mitivpn@199.232.78.170:443?security=tls&amp;alpn=http/1.1&amp;host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;sni=ssl.fastly.com#
 trojan://mitivpn@199.232.78.170:443?path=@mehrosabiran&amp;security=tls&amp;host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&amp;type=ws&amp;sni=ssl.fastly.com#@v2raying
-trojan://SoftNetConnect@178.104.213.121:443?security=reality&amp;pbk=bVGtj0cRMfC-VapbrAa97IjYqjMoxODMOqsN0eGBDmI&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=e0c7dbaa7dc2#𝐍𝐄𝐖
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&amp;security=tls&amp;host=jobscareerforlawyers.com&amp;type=ws&amp;sni=jobscareerforlawyers.com#@V2HAMID
-trojan://TheVPNMethod@5.10.214.56:443?path=/the&amp;security=tls&amp;fp=firefox&amp;type=ws&amp;sni=yo.motorcbr.store#TelmaVPN
-trojan://Mitivpn@45.130.125.76:2053?path=/?ed=2048&amp;security=tls&amp;alpn=http/1.1&amp;host=dash.hitgram.ir&amp;fp=chrome&amp;type=ws&amp;sni=dash.hitgram.ir#TelmaVPN
