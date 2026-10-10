@@ -1,3 +1,8 @@
+hysteria2://github.com/Alvin9999-newpac/fanqiang@178.18.147.66:29900?insecure=1&amp;sni=www.microsoft.com#🇳🇱NL_1|2.9MB/s|GPT⁺|YT-RU|NF|D+|0%
+hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?insecure=1&amp;sni=www.microsoft.com#🇫🇷FR_1|3.1MB/s|GPT⁺|YT-FR|NF|D+|25%
+hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&amp;security=tls#法国+ONLINE+S.A.S.数据中心
+hysteria2://github.com/Alvin9999-newpac/fanqiang@178.18.147.66:29900?insecure=1&amp;sni=www.microsoft.com#🇳🇱NL_1|2.9MB/s|GPT⁺|YT-RU|NF|D+|0%
+hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?insecure=1&amp;sni=www.microsoft.com#🇫🇷FR_1|3.1MB/s|GPT⁺|YT-FR|NF|D+|25%
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.124.117.110:443?insecure=1&security=tls&sni=www.bing.com#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-90
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.124.117.110:443?insecure=1&sni=www.bing.com#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-104
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.124.117.110:443?insecure=1&security=tls&sni=www.bing.com#
