@@ -133,9 +133,3 @@ trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?sni=bangladeshipatri
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?sni=bangladeshipatri.com&amp;host=bangladeshipatri.com&amp;security=tls&amp;type=ws&amp;path=6b777a91#@ToYoTA_PRoXY-Fragment
 trojan://mitivpn@104.16.75.127:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&amp;security=tls&amp;alpn=http/1.1&amp;host=www.linkman1.ir&amp;fp=chrome&amp;type=ws&amp;sni=www.linkman1.ir#TelmaVPN
 trojan://mitivpn@104.16.75.127:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&amp;security=tls&amp;alpn=http/1.1&amp;host=cdn.linkman1.ir&amp;fp=chrome&amp;type=ws&amp;sni=cdn.linkman1.ir#TelmaVPN
-trojan://mitivpn@8.6.112.224:443?path=https://chatgpt.com&amp;security=tls&amp;alpn=http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=ssl.sv5.mitivpn.online#TelmaVPN
-trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp;type=ws&amp;headerType=none&amp;path=%2Fhowdy&amp;sni=de1.test3.net&amp;host=de1.test3.net#@chatbuzzteam
-trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp;type=ws&amp;headerType=none&amp;path=%2Fhowdy&amp;sni=de1.test3.net&amp;host=de1.test3.net#@chatbuzzteam
-trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
-trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443/?type=tcp&security=tls#
-trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
