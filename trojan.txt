@@ -1,0 +1,6 @@
+trojan://ec1fa47d-4eac-4b3f-8cae-4a2982d43e2f@www.wto.org:8443?security=tls&sni=jiangjc.pages.dev#🌐سرور
+trojan://ec1fa47d-4eac-4b3f-8cae-4a2982d43e2f@www.wto.org:8443?security=tls&type=ws&host=jiangjc.pages.dev&path=%2F&sni=jiangjc.pages.dev#CA%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9144
+trojan://ec1fa47d-4eac-4b3f-8cae-4a2982d43e2f@www.wto.org:8443?security=tls&type=ws&host=jiangjc.pages.dev&path=%2F&sni=jiangjc.pages.dev#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_143
+trojan://ec1fa47d-4eac-4b3f-8cae-4a2982d43e2f@www.wto.org:8443?security=tls&type=ws&path=%2F&sni=jiangjc.pages.dev#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_144
+trojan://ec1fa47d-4eac-4b3f-8cae-4a2982d43e2f@www.wto.org:8443?security=tls&sni=jiangjc.pages.dev#[2760][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
+trojan://PD07395842@big-bonefish.rooster465.autos:443?security=tls&sni=big-bonefish.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%BA%20AU-90
