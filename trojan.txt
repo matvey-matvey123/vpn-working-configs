@@ -1,4 +1,0 @@
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@45.147.200.44:443/?type=tcp&security=tls&sni=%24%24paydiu.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@45.147.200.44:443/?type=tcp&security=tls&sni=%24%24paydiu.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#[224][RU][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.147.3:443/?type=tcp&security=tls&sni=jobscareerfortoday.com#
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.147.3:443/?type=tcp&security=tls&sni=jobscareerfortoday.com#[467][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
