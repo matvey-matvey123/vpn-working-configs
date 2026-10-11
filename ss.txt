@@ -1,0 +1,1 @@
+ss://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@46.235.189.157:443?path=//&amp;security=tls&amp;alpn=h2,http/1.1&amp;encryption=none&amp;insecure=0&amp;host=lk-cdn.deploy-assure.ru&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=lk-cdn.deploy-assure.ru#V2RAZ
