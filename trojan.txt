@@ -1,2 +1,0 @@
-trojan://Pooria@www.speedtest.net:80?path=/trLwW5jwrnymnOdqki?ed=2560&amp;security=none&amp;host=redfree8w.pooriam.ir&amp;type=ws#
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&amp;security=tls&amp;host=jobscareerforlawyers.com&amp;type=ws&amp;sni=jobscareerforlawyers.com#@V2HAMID
