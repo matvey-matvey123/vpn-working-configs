@@ -1,5 +1,1 @@
-trojan://b792ffa6-7007-43a9-ae9f-46f68da52a6a@x.com:8443?allowInsecure=0&sni=avengers1.yang-1989.xyz&type=ws&host=avengers1.yang-1989.xyz&path=/hm4m#%5BOpenRay%5D%20%F0%9F%8C%90XX-733
-trojan://b792ffa6-7007-43a9-ae9f-46f68da52a6a@x.com:8443?security=tls&sni=avengers1.yang-1989.xyz#[2454][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
-trojan://b792ffa6-7007-43a9-ae9f-46f68da52a6a@x.com:8443?allowInsecure=0&sni=avengers1.yang-1989.xyz&type=ws&host=avengers1.yang-1989.xyz&path=/hm4m#[2453][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
-trojan://b792ffa6-7007-43a9-ae9f-46f68da52a6a@x.com:8443?security=tls&sni=avengers1.yang-1989.xyz#[2455][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
-trojan://b792ffa6-7007-43a9-ae9f-46f68da52a6a@x.com:8443?security=tls&sni=avengers1.yang-1989.xyz&type=ws&path=/hm4m&Host=avengers1.yang-1989.xyz#[2457][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
+trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&amp;security=none&amp;host=redfree8-p1.pooriashop.ir&amp;type=ws#@RayanConf
