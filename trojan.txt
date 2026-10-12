@@ -1,9 +1,6 @@
-trojan://xhl549341@104.18.42.98:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#%5BOpenRay%5D%20%F0%9F%8C%90XX-649
-trojan://xhl549341@104.18.42.98:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#[4247][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
-trojan://xhl549341@104.18.42.98:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://xhl549341@104.18.43.174:443?type=ws&security=tls&fp=chrome&sni=tro.baiyi.cloudns.org&alpn=h3#%5BOpenRay%5D%20%F0%9F%8C%90XX-938
-trojan://xhl549341@104.18.43.174:443?type=ws&security=tls&fp=chrome&sni=tro.baiyi.cloudns.org&alpn=h3#[4248][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
-trojan://xhl549341@104.18.35.15:443?type=ws&security=tls&fp=chrome&sni=tro.baiyi.cloudns.org&alpn=h3#%5BOpenRay%5D%20%F0%9F%8C%90XX-2449
-trojan://xhl549341@104.18.35.15:443?type=ws&security=tls&fp=chrome&sni=tro.baiyi.cloudns.org&alpn=h3#[4246][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
-trojan://xhl549341@172.64.144.82:443?type=ws&security=tls&fp=chrome&sni=tro.baiyi.cloudns.org&alpn=h3#%5BOpenRay%5D%20%F0%9F%8C%90XX-752
-trojan://xhl549341@172.64.144.82:443?type=ws&security=tls&fp=chrome&sni=tro.baiyi.cloudns.org&alpn=h3#[4249][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-10][2026-10-10
+trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&amp;security=none&amp;host=redfree8-p1.pooriashop.ir&amp;type=ws#@RayanConf
+trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&amp;security=tls&amp;insecure=0&amp;host=dl1.rahetejarat.com&amp;fp=chrome&amp;type=httpupgrade&amp;allowInsecure=0&amp;sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
+trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&amp;security=tls&amp;insecure=0&amp;host=dl1.rahetejarat.com&amp;fp=chrome&amp;type=httpupgrade&amp;allowInsecure=0&amp;sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
+trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&amp;security=tls&amp;insecure=0&amp;host=dl1.rahetejarat.com&amp;fp=chrome&amp;type=httpupgrade&amp;allowInsecure=0&amp;sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
+trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&amp;security=tls&amp;insecure=0&amp;host=dl1.rahetejarat.com&amp;fp=chrome&amp;type=httpupgrade&amp;allowInsecure=0&amp;sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
+trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#EPODONIOS
