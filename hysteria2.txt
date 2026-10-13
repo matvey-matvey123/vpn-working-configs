@@ -1,5 +1,0 @@
-hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443/?insecure=1&sni=bing.com#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-154
-hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?security=tls&sni=bing.com&alpn=h3&insecure=1#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-279
-hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443/?insecure=1&sni=bing.com#
-hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1#0453
-hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1#0401
