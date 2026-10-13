@@ -1,6 +1,6 @@
-trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&amp;security=none&amp;host=redfree8-p1.pooriashop.ir&amp;type=ws#@RayanConf
-trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&amp;security=tls&amp;insecure=0&amp;host=dl1.rahetejarat.com&amp;fp=chrome&amp;type=httpupgrade&amp;allowInsecure=0&amp;sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&amp;security=tls&amp;insecure=0&amp;host=dl1.rahetejarat.com&amp;fp=chrome&amp;type=httpupgrade&amp;allowInsecure=0&amp;sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&amp;security=tls&amp;insecure=0&amp;host=dl1.rahetejarat.com&amp;fp=chrome&amp;type=httpupgrade&amp;allowInsecure=0&amp;sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&amp;security=tls&amp;insecure=0&amp;host=dl1.rahetejarat.com&amp;fp=chrome&amp;type=httpupgrade&amp;allowInsecure=0&amp;sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#EPODONIOS
+trojan://fc23da48736a436caf4b73bf34c85c96@snapp.ir:443?path=/ijfdsijfdsjsdfsue&security=tls&host=nginx-2-0189f789f6-test53.apps.ir-central1.arvancaas.ir&type=ws#EPODONIOS
+trojan://fc23da48736a436caf4b73bf34c85c96@snapp.ir:443?security=tls#IR
+trojan://fc23da48736a436caf4b73bf34c85c96@snapp.ir:443?path=/ijfdsijfdsjsdfsue&security=tls&host=nginx-2-0189f789f6-test53.apps.ir-central1.arvancaas.ir&type=ws#[2687][IR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-13][2026-10-13
+trojan://fc23da48736a436caf4b73bf34c85c96@snapp.ir:443?path=/ijfdsijfdsjsdfsue&security=tls&host=nginx-2-0189f789f6-test53.apps.ir-central1.arvancaas.ir&type=ws#[2688][IR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-13][2026-10-13
+trojan://mitivpn@104.16.75.127:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&amp;security=tls&amp;alpn=http/1.1&amp;host=www.linkman1.ir&amp;fp=chrome&amp;type=ws&amp;sni=www.linkman1.ir#TelmaVPN
+trojan://mitivpn@104.16.75.127:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&amp;security=tls&amp;alpn=http/1.1&amp;host=cdn.linkman1.ir&amp;fp=chrome&amp;type=ws&amp;sni=cdn.linkman1.ir#TelmaVPN
